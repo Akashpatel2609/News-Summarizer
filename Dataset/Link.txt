@@ -1,0 +1,5 @@
+AG News Classification Dataset
+https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
+News Summary Dataset
+https://www.kaggle.com/datasets/sunnysai12345/news-summary
